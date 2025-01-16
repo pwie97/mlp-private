@@ -8,6 +8,8 @@ There are five classes in this dataset:
 - Colon adenocarcinoma
 - Colong benign tissue (<em>healthy</em>)
 
+Therefore, this dataset is a multi-class classification.
+
 The goal is to compare different Convolutional Neural Networks (CNNs) to explore the strengths and weaknesses of various architectures and understand which ones perform best for the chosen dataset. Ultimately, the most robust classifier (CNN) will be identified and can accurately identify cancerous lung or colon tissues from the given sample images. 
 
 For a fair comparison of the different CNNs, it is necessary to set some guidelines / rules:
