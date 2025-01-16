@@ -19,7 +19,7 @@ For a fair comparison of the different CNNs, it is necessary to set some guideli
   - Batch size
   - Number of epochs
 - The same optimizer is used
-  - Isolates the effect if the CNN architecture on performance
+  - Isolates the effect of the CNN architecture on performance
 
 Those rules will ensure that the comparison is consistent, controlled and fair.
 
