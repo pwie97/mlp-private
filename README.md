@@ -25,4 +25,4 @@ For a fair comparison of the different CNNs, it is necessary to set some guideli
 
 Those rules will ensure that the comparison is consistent, controlled and fair.
 
-The dataset used in this notebook is sourced from Kaggle: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images/data
+The dataset used in this notebook is sourced from Kaggle: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images/data.
