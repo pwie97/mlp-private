@@ -14,6 +14,9 @@ The goal is to compare different Convolutional Neural Networks (CNNs) to explore
 
 For a fair comparison of the different CNNs, it is necessary to set some guidelines / rules:
 - The dataset has to be properly preprocessed.
+
+
+  - So, the transformer is the same.
 - The same training parameters are used 
 
 
